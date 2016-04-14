@@ -5,6 +5,12 @@ body
   font-family: monospace;
 }
 
+a:hover
+{
+  background: #111111;
+  color: #555555;
+  text-decoration: none;
+}
 a,h1
 {
   color: #555555;
