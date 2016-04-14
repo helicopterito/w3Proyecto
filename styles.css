@@ -3,7 +3,7 @@ body
   background: #111111;
 }
 
-a
+a,h1
 {
-  color: #444444;
+  color: #555555;
 }
